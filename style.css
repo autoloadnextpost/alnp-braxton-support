@@ -1,0 +1,17 @@
+/*
+ * Theme Name: Braxton with Auto Load Next Post Support
+ * Description: Braxton is the premier magazine theme that combines both form and function into one comprehensive Wordpress theme. This sleek, modern theme is retina-ready, fully-responsive and comes with four different ad units, including a custom wallpaper ad. Braxton is also translation-ready, fully-responsive, comes with over 600 Google fonts, a Featured Slider on each category page, infinite scrolling, lazy load, a "sticky" menu bar and sidebar, video/audio posts, post/page slideshows, super quick demo install and so much more!
+ * Author: MVP Themes
+ * Author URI: http://themeforest.net/user/mvpthemes
+ * Theme URI: http://themeforest.net/user/mvpthemes
+ * Version: 1.0
+ * Template: braxton
+ * Text Domain: braxton
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+hr.post-divider,
+hr.alnp-post-divider {
+  display: none;
+}
